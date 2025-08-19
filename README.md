@@ -7,7 +7,7 @@
 Udacity Bikeshare Project
 
 ### Description
-Provide bikeshare data for a given city based on user input.
+Provide bikeshare data for chicago, new york city, or washington based on user input.  Users may also select the month or day of the week they would like data for.
 
 ### Files used
 chicago.csv
