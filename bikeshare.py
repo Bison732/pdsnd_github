@@ -26,6 +26,7 @@ def get_filters():
             continue
         else:
             break
+
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
         month = input('Type a month (january, feburary, march, april, may, june or all) to explore: ').lower()
@@ -34,6 +35,7 @@ def get_filters():
             continue
         else:
             break
+
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
         day = input('Type a day of the week to explore or all for everyday: ').lower()
@@ -45,6 +47,7 @@ def get_filters():
             
     print('-'*40)
     #print(city, month, day)
+    
     return city, month, day
     
 
@@ -255,3 +258,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+##Yay all done!
