@@ -7,11 +7,13 @@
 Udacity Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Provide bikeshare data for a given city based on user input.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+# (1) tomjose1792 (2018) BikeShare-Project-Python. https://gitlab.com/tomjose1792/BikeShare-Project-Python/-/blob/c8399acf270415b19276a7de073d802dcc5dd17e/bikeshare.py
 
