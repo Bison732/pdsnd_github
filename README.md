@@ -15,5 +15,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-# (1) tomjose1792 (2018) BikeShare-Project-Python. https://gitlab.com/tomjose1792/BikeShare-Project-Python/-/blob/c8399acf270415b19276a7de073d802dcc5dd17e/bikeshare.py
+(1) tomjose1792 (2018) BikeShare-Project-Python. https://gitlab.com/tomjose1792/BikeShare-Project-Python/-/blob/c8399acf270415b19276a7de073d802dcc5dd17e/bikeshare.py
 
